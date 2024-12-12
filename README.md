@@ -25,7 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./![image](https://github.com/user-attachments/assets/42134c45-4f0f-4f68-a6aa-ea0990ae3e0b)
+)
 
 
 ### Links
