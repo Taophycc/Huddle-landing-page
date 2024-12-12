@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [taophycc.github.io](https://github.com/Taophycc/Huddle-landing-page.git)
-- Live Site URL: [taophycc.github.io](https://Huddle-landing-page/)
+- Live Site URL: [taophycc.github.io](https://taophycc.github.io/Huddle-landing-page/)
 
 ### Built with
 
